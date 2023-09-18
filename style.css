@@ -6,6 +6,9 @@
     width: 100%;
     height: auto;
   }
+  .text {
+    text-align: center;
+  }
 }
 .card-body {
   padding: 10px;
